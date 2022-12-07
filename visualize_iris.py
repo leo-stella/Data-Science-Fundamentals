@@ -109,5 +109,5 @@ if __name__ == '__main__':
     # this allows you to pass the file name as the first argument when you call
     # your script from the command line
     # so to run this script use:
-    # python iris.py Iris.csv
+    # python visualize_iris.py Iris.csv
     main('iris.csv')
